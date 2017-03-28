@@ -141,7 +141,17 @@ height: auto;
     padding:5px 20px 20px 20px;
     padding:5px;
 }
-
+#about,#project {
+  background: url(../img/introback.jpg) no-repeat 50% 50%;
+  background-attachment: fixed;
+  -webkit-background-size: ;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  display: block;
+  height: auto;
+}
 #about img{
   position: relative;
   width: 70%;

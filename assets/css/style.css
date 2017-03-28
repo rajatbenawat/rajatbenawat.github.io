@@ -160,6 +160,22 @@ height: auto;
   border-radius: 50%;
 }
 
+.social i{
+  list-style-type: none;
+  float: left;
+  display: block;
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  text-align: center;
+  border-radius: 50%;
+  margin: 5px;
+}
+.social i:hover{
+  color:blue;
+  border:1px solid blue;
+}
+
 /*=======================================
     SKILL BAR STYLES
 ==================================================*/
